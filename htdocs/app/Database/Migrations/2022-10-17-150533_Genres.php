@@ -22,11 +22,11 @@ class Genres extends Migration
         ]);
 
         $this->forge->addKey('id', true, true);
-        $this->forge->createTable('blog');
+        $this->forge->createTable('genres');
     }
 
     public function down()
     {
-        $this->forge->dropTable('Genres');
+        $this->forge->dropTable('genres');
     }
 }
