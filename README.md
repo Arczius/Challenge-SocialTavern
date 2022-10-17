@@ -39,3 +39,4 @@ met deze opdracht proberen wij een paar doelen te testen
 ---
 
 ## Hier onder zal een demo staan van hoe de applicatie zal functioneren
+https://user-images.githubusercontent.com/70692175/196246413-e162265e-a268-42f8-b61e-ba256e7c1a8d.mp4
