@@ -1,32 +1,26 @@
 # De challenge van Social Tavern
 ---
 
-in onze challenge ga je met het [codeigniter](https://codeigniter.com) framework werken,
+in onze challenge ga je met het [CodeIgniter](https://codeigniter.com) framework en het [TailwindCSS](https://tailwindcss.com) werken,
 
-je gaat dit framework gebruiken om een muziek app te bouwen
+je gaat deze frameworks gebruiken om een muziek app te bouwen
 
 we hebben al de migrations en seeders gemaakt waardoor je geen moeite hoeft te hebben om data te bedenken
 
 ---
-## huh maar gebruiken jullie alleen een backend framework?
-ja wij gebruiken alleen een backend framework voor ons project, echter gebruiken wij wel [sass](https://sass-lang.com) om onze css te schrijven.
-in deze challenge is het niet nodig om sass te gebruiken, deze challenge is meer bedoeld om je backend skills te verbeteren en te kunnen zien hoe je daar mee om kan gaan. 
-dus voor deze challenge mag je een frontend styling framework gebruiken uit de onderstaande lijst, natuurlijk mag je ook het zelf in [sass](https://sass-lang.com) schrijven, of in css zelf
-
-* [Tailwind css](https://tailwindcss.com)
-* [Bulma](https://bulma.io)
-* [Bootstrap](https://getbootstrap.com)
-* [W3.css](https://www.w3schools.com/w3css/defaulT.asp)
-* [Materialie](https://materializecss.com)
+## hoe ga ik gebruik maken van TailwindCSS?
+Voor deze opdracht kan je de TailwindCSS playground cdn gebruiken, deze kan je includen door in de ```<head>``` van je app dit in te voegen: ```<script src="https://cdn.tailwindcss.com"></script>```
+het is **verplicht** om TailwindCSS te gebruiken via deze cdn(we gebruiken het in het project wel via de cli, maar om het makkelijk door te kunnen sturen gebruiken we de cdn)
 
 
 ---
 ## Leerdoelen
 hier zal je verschillende dingen leren, bijvoorbeeld:
-* hoe routes werken in codeigniter
+* hoe routes werken in CodeIgniter
 * hoe je kan om gaan met dynamische data
-* hoe codeigniter's query builder werkt
-* hoe de command line tools werken van codeigniter / php
+* hoe CodeIgniter's query builder werkt
+* hoe de command line tools werken van CodeIgniter / PHP
+* hoe je kan werken met TailwindCSS
 
 ---
 ## Wat is ons doel van je deze opdracht geven?
@@ -35,6 +29,7 @@ met deze opdracht proberen wij een paar doelen te testen
 * hoe je denkwijze is
 * hoe goed je om kan gaan met de soms nog wel slechte documentatie van codeigniter zelf
 * of je het leuk vindt om met codeigniter en dynamische data te werken
+* kijken of je om kan gaan met front end
 
 ---
 
